@@ -104,6 +104,12 @@
     - Patrick O'Reilly, Zeyu Jin, Jiaqi Su, Bryan Pardo*
     - Northwestern University
     - [Paper](https://arxiv.org/pdf/2504.10782)
+
+- **XAttnMark: Learning Robust Audio Watermarking with Cross-Attention**
+    - ICML 2025
+    - Yixin Liu, Lie Lu, Jihui Jin, Lichao Sun, Andrea Fanelli*
+    - Dolby Lab
+    - [Paper](https://openreview.net/pdf?id=zuOKPHHfEr) [Page](https://liuyixin-louis.github.io/xattnmark/)
 <!-- | Work | Affliation| Pub | Code | Target |
 |------|---------|---------|---------|---------|
 | **CoprGuard**  | Zhejiang University | CVPR 2025 | - | Diffusion Models |
