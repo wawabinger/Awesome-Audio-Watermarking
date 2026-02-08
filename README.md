@@ -110,10 +110,6 @@
     - Yixin Liu, Lie Lu, Jihui Jin, Lichao Sun, Andrea Fanelli*
     - Dolby Lab
     - [Paper](https://openreview.net/pdf?id=zuOKPHHfEr) [Page](https://liuyixin-louis.github.io/xattnmark/)
-<!-- | Work | Affliation| Pub | Code | Target |
-|------|---------|---------|---------|---------|
-| **CoprGuard**  | Zhejiang University | CVPR 2025 | - | Diffusion Models |
- -->
 
 <br>
 
@@ -137,7 +133,7 @@
     - Junzuo Zhou, Jiangyan Yi*, Tao Wang, Jianhua Tao, Ye Bai, Chu Yuan Zhang, Yong Ren, Zhengqi Wen
     - [Paper](https://arxiv.org/pdf/2406.04840)
 
-### 2. Endogenous Watermarking by training/fine-tuning the generative model
+### 2. Training/fine-tuning the generative model
 - **(CollabMark) Collaborative Watermarking for Adversarial Speech Synthesis**
     - ICASSP 2025
     - Lauri Juvela, Xin Wang
